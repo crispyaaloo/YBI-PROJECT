@@ -1,4 +1,4 @@
-# YBI-PROJECT
+# TWITTER SENTIMENT ANALYSIS 
 Twitter Data Analysis and Sentiment Insights
 
 Project Overview:
